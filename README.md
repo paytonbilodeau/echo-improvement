@@ -1,5 +1,7 @@
 # Echo Improvement
 
+[![Repository quality](https://github.com/paytonbilodeau/echo-improvement/actions/workflows/quality.yml/badge.svg)](https://github.com/paytonbilodeau/echo-improvement/actions/workflows/quality.yml)
+
 The reusable workflow behind [Echo Improvement](https://www.echoimprovement.com), my newsletter about clear thinking, useful behavior and personal improvement. It shows how an issue moves from research to a reviewed draft and a related visual story.
 
 This is a workflow template you can adapt. It does not include my private research library, editorial archive, image recipe, accounts or credentials, and it does not publish by itself.
