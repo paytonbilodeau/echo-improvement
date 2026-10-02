@@ -15,3 +15,9 @@ Write the evidence for each check rather than ticking an empty box.
 - Critic's supported objections and repairs:
 - Final state: needs-repair or passed.
 - Reviewer and date:
+
+- Format reference and any justified departure:
+- Body word count and count scope:
+- Source window, retrieval dates and topic exclusions:
+- Specific craft improvement and any tradeoff:
+- At most two substantive repair cycles; unresolved flaw and next action:

@@ -10,6 +10,8 @@ For an AI teaching issue, separate released capability, previews, observed resul
 
 ## Draft with a purpose
 
+Use [the format guide](templates/FORMAT.md) with your own accepted issues. Keep the established structure while improving explanation and flow.
+
 Develop one essay thesis through evidence and a clear causal explanation. Distinguish study participants, writers, recipients and comparison groups. Finish with three different actions about the theme, rather than three steps that all describe the same action.
 
 Opening guidance: Name the subject immediately. Use a concrete scene or question only when it helps explain the subject.

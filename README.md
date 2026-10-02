@@ -15,7 +15,7 @@ The related carousel is a separate deliverable. In my own configured workflow, a
 1. Copy [config.example.json](config.example.json) into your own private workspace and customize your publication, schedule, sources, voice and image style.
 2. Fill out [the issue brief](templates/ISSUE-BRIEF.md) before drafting.
 3. Give a file-aware assistant [RUN.md](RUN.md), [WORKFLOW.md](WORKFLOW.md) and your brief. You can also follow the steps manually.
-4. Use [the article review](templates/ARTICLE-REVIEW.md) before saving a draft and [the carousel brief](templates/CAROUSEL-BRIEF.md) before creating images.
+4. Preserve [the lane format](templates/FORMAT.md) and use [the article review](templates/ARTICLE-REVIEW.md) before saving a draft and [the carousel brief](templates/CAROUSEL-BRIEF.md) before creating images.
 5. Record actual draft and publication states in a copy of [receipt.example.json](templates/receipt.example.json). Reuse the same issue key when retrying.
 
 The starting length for this lane is 850–1,100 words. Treat that as room for a worthwhile explanation, not a reason to pad it. Develop one essay thesis through evidence and a clear causal explanation. Distinguish study participants, writers, recipients and comparison groups. Finish with three different actions about the theme, rather than three steps that all describe the same action.

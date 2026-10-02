@@ -13,3 +13,9 @@
 - Platform captions and publication-state wording:
 - Article changed after adaptation? Recheck the carousel before release.
 - Destination-specific permission and existing jobs:
+
+- Reason for each slide transition:
+- Final slide resolves the opening and delivers a payoff before the CTA:
+- Four-image X version reviewed as a complete argument:
+- Final words and official logo references generated with each scene:
+- Text or logo repair uses a native edit or regeneration:
