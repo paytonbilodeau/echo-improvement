@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "issue_key": "YOUR_PUBLICATION:YYYY-MM-DD",
+  "article": {
+    "state": "draft",
+    "url": null,
+    "content_sha256": null,
+    "review": "needs-repair"
+  },
+  "destinations": {
+    "instagram": {
+      "state": "draft",
+      "provider_id": null,
+      "public_url": null
+    },
+    "linkedin": {
+      "state": "draft",
+      "provider_id": null,
+      "public_url": null
+    },
+    "x": {
+      "state": "draft",
+      "provider_id": null,
+      "public_url": null
+    },
+    "tiktok": {
+      "state": "draft",
+      "provider_id": null,
+      "public_url": null
+    }
+  },
+  "observed_at": null,
+  "verification_evidence": [],
+  "next_action": "Complete source and article review; no live publication authorized."
+}

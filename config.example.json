@@ -1,0 +1,19 @@
+{
+  "publication_name": "YOUR_PUBLICATION_NAME",
+  "publication_url": "YOUR_PUBLICATION_URL",
+  "timezone": "YOUR_TIMEZONE",
+  "weekday": "friday",
+  "start_hour": 8,
+  "target_words": "850\u20131,100",
+  "source_list": [
+    "YOUR_ORIGINAL_SOURCE_URL"
+  ],
+  "voice_references": [
+    "YOUR_OWN_WRITING"
+  ],
+  "image_style": "YOUR_PUBLIC_SAFE_IMAGE_STYLE",
+  "newsletter_mode": "draft_only",
+  "social_mode": "draft_only",
+  "private_issue_workspace": "YOUR_PRIVATE_FOLDER",
+  "credentials": "Use supported secret storage outside the repository."
+}
