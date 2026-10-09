@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.2 - 2026-10-09
+
+Add calculated reading-time pull quotes, visibly numbered practical advice and concise carousel captions. Clarify the lane’s research and reader outcome.
+
 ## 1.0.1 - 2026-10-02
 
 Add the lane-specific format guide, source-window and word-count checks, truthful authorship guidance, and explicit carousel transition and ending reviews. Publication remains separately authorized.
