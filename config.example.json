@@ -16,6 +16,6 @@
   "social_mode": "draft_only",
   "private_issue_workspace": "YOUR_PRIVATE_FOLDER",
   "credentials": "Use supported secret storage outside the repository.",
-  "template_version": "1.0.1",
+  "template_version": "1.0.2",
   "source_window_days": 7
 }

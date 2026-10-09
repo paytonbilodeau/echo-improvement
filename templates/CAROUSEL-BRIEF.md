@@ -19,3 +19,7 @@
 - Four-image X version reviewed as a complete argument:
 - Final words and official logo references generated with each scene:
 - Text or logo repair uses a native edit or regeneration:
+
+- Caption develops one connected insight with its practical consequence and needed limits:
+- Shortest complete caption, with no minimum word count or repeated slide summaries:
+- Real paragraph breaks and truthful live/draft CTA survive the destination payload:

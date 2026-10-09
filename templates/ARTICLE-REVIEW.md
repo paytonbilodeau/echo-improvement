@@ -21,3 +21,7 @@ Write the evidence for each check rather than ticking an empty box.
 - Source window, retrieval dates and topic exclusions:
 - Specific craft improvement and any tradeoff:
 - At most two substantive repair cycles; unresolved flaw and next action:
+
+- Final visible word count, reading-time calculation and displayed line:
+- Reopened draft preserves the italic native pull quote and numbered practical lists:
+- Repeated conclusions removed; transitions explain how the ideas connect:

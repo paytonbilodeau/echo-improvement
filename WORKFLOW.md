@@ -53,3 +53,17 @@ Save the provider IDs, content and asset hashes, public URL, observed state and 
 ## Learn without rewriting the evidence
 
 After the issue, record one concrete editorial improvement and why it helped. Keep the accepted format and reader promise. Do not claim a process is improving just because a self-assigned score rose.
+
+## Make the practical value explicit
+
+Read full relevant original sources across useful formats before narrowing the
+issue. Record actual transcript or video coverage; sampled frames are not a full
+watch. Separate creator opinion, vendor claims, research findings and editorial
+inference. Check the claims that control the conclusion against primary evidence.
+
+Use the reading-time and numbered-list rules in the format guide. Reopen the
+saved draft to verify their native formatting. Write a concise carousel caption
+that complements the visual argument with one useful insight and its consequence.
+Keep necessary limits and the correct publication-state CTA; there is no minimum
+caption length. Judge the resulting prose and reader feedback separately from
+installing better instructions.
